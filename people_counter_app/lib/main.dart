@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 void main() {
   runApp(MaterialApp(
-    title: 'Contador d pessoas',
+    title: 'Contador de pessoas',
     home: Home(),
   ));
 }
